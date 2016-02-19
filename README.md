@@ -7,16 +7,13 @@ This is Google's [Material Design lite](https://www.getmdl.io/) In Gem form, rea
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'material-rails'
+gem 'material-rails', :git => "https://github.com/Christopotamus/material-rails"
 ```
 
 And then execute:
 
     $ bundle
 
-Or install it yourself as:
-
-    $ gem install material-rails
 
 ## Usage
 
